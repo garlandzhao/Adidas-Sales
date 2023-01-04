@@ -1,0 +1,145 @@
+﻿Year,Month,Product,Total Units Sold
+2020,1,Men's Street Footwear,11919
+2020,1,Women's Athletic Footwear,6261
+2020,1,Men's Athletic Footwear,7791
+2020,1,Women's Apparel,8489
+2020,1,Men's Apparel,5902
+2020,1,Women's Street Footwear,7971
+2020,2,Men's Street Footwear,7205
+2020,2,Men's Apparel,5400
+2020,2,Women's Athletic Footwear,6071
+2020,2,Women's Apparel,4641
+2020,2,Women's Street Footwear,6835
+2020,2,Men's Athletic Footwear,7694
+2020,3,Women's Apparel,8348
+2020,3,Women's Street Footwear,7675
+2020,3,Men's Street Footwear,10022
+2020,3,Men's Apparel,5320
+2020,3,Men's Athletic Footwear,8652
+2020,3,Women's Athletic Footwear,6955
+2020,4,Women's Street Footwear,7961
+2020,4,Women's Athletic Footwear,7125
+2020,4,Men's Apparel,8258
+2020,4,Men's Street Footwear,11960
+2020,4,Women's Apparel,9995
+2020,4,Men's Athletic Footwear,9410
+2020,5,Men's Street Footwear,6949
+2020,5,Women's Street Footwear,5419
+2020,5,Men's Athletic Footwear,6372
+2020,5,Women's Apparel,6057
+2020,5,Women's Athletic Footwear,4844
+2020,5,Men's Apparel,6064
+2020,6,Women's Athletic Footwear,2202
+2020,6,Women's Apparel,2948
+2020,6,Men's Athletic Footwear,2880
+2020,6,Men's Apparel,1499
+2020,6,Women's Street Footwear,2940
+2020,6,Men's Street Footwear,3800
+2020,7,Men's Apparel,4609
+2020,7,Women's Apparel,6849
+2020,7,Women's Street Footwear,5495
+2020,7,Women's Athletic Footwear,5017
+2020,7,Men's Athletic Footwear,6881
+2020,7,Men's Street Footwear,9368
+2020,8,Men's Apparel,8110
+2020,8,Women's Street Footwear,10395
+2020,8,Men's Athletic Footwear,12685
+2020,8,Women's Athletic Footwear,8670
+2020,8,Women's Apparel,10955
+2020,8,Men's Street Footwear,11492
+2020,9,Women's Apparel,8603
+2020,9,Women's Street Footwear,8492
+2020,9,Women's Athletic Footwear,6975
+2020,9,Men's Athletic Footwear,7004
+2020,9,Men's Apparel,6888
+2020,9,Men's Street Footwear,8163
+2020,10,Men's Apparel,4284
+2020,10,Women's Athletic Footwear,4280
+2020,10,Men's Athletic Footwear,4704
+2020,10,Women's Apparel,5569
+2020,10,Women's Street Footwear,5409
+2020,10,Men's Street Footwear,5921
+2020,11,Men's Apparel,2420
+2020,11,Men's Athletic Footwear,4805
+2020,11,Women's Athletic Footwear,2482
+2020,11,Women's Street Footwear,4636
+2020,11,Men's Street Footwear,6921
+2020,11,Women's Apparel,3888
+2020,12,Men's Street Footwear,5466
+2020,12,Men's Apparel,2473
+2020,12,Women's Street Footwear,2563
+2020,12,Men's Athletic Footwear,2882
+2020,12,Women's Apparel,3866
+2020,12,Women's Athletic Footwear,3295
+2021,1,Women's Athletic Footwear,21703
+2021,1,Men's Street Footwear,41055
+2021,1,Men's Athletic Footwear,32946
+2021,1,Men's Apparel,21895
+2021,1,Women's Apparel,30823
+2021,1,Women's Street Footwear,30877
+2021,2,Men's Apparel,19023
+2021,2,Men's Street Footwear,41223
+2021,2,Women's Athletic Footwear,17710
+2021,2,Women's Street Footwear,25837
+2021,2,Women's Apparel,26838
+2021,2,Men's Athletic Footwear,25482
+2021,3,Men's Street Footwear,38352
+2021,3,Women's Street Footwear,24914
+2021,3,Women's Athletic Footwear,17650
+2021,3,Women's Apparel,23298
+2021,3,Men's Athletic Footwear,24032
+2021,3,Men's Apparel,15742
+2021,4,Men's Street Footwear,41112
+2021,4,Women's Street Footwear,26614
+2021,4,Women's Athletic Footwear,19719
+2021,4,Women's Apparel,30369
+2021,4,Men's Athletic Footwear,26082
+2021,4,Men's Apparel,17821
+2021,5,Men's Street Footwear,44221
+2021,5,Men's Apparel,22533
+2021,5,Men's Athletic Footwear,29368
+2021,5,Women's Apparel,32817
+2021,5,Women's Street Footwear,27338
+2021,5,Women's Athletic Footwear,22623
+2021,6,Men's Street Footwear,41675
+2021,6,Women's Street Footwear,24600
+2021,6,Men's Athletic Footwear,26952
+2021,6,Men's Apparel,19460
+2021,6,Women's Apparel,31230
+2021,6,Women's Athletic Footwear,20828
+2021,7,Women's Apparel,32759
+2021,7,Women's Street Footwear,26339
+2021,7,Men's Street Footwear,44625
+2021,7,Women's Athletic Footwear,22101
+2021,7,Men's Apparel,23665
+2021,7,Men's Athletic Footwear,30992
+2021,8,Women's Athletic Footwear,24749
+2021,8,Men's Street Footwear,48094
+2021,8,Women's Street Footwear,31297
+2021,8,Women's Apparel,31150
+2021,8,Men's Athletic Footwear,37521
+2021,8,Men's Apparel,22603
+2021,9,Women's Athletic Footwear,22841
+2021,9,Men's Apparel,22219
+2021,9,Men's Athletic Footwear,34374
+2021,9,Women's Apparel,31510
+2021,9,Women's Street Footwear,29146
+2021,9,Men's Street Footwear,42335
+2021,10,Women's Street Footwear,21973
+2021,10,Women's Apparel,27285
+2021,10,Men's Athletic Footwear,29266
+2021,10,Men's Apparel,18837
+2021,10,Women's Athletic Footwear,19194
+2021,10,Men's Street Footwear,36279
+2021,11,Women's Athletic Footwear,20984
+2021,11,Men's Apparel,19631
+2021,11,Men's Athletic Footwear,25902
+2021,11,Women's Street Footwear,22019
+2021,11,Women's Apparel,26710
+2021,11,Men's Street Footwear,34104
+2021,12,Men's Apparel,22027
+2021,12,Men's Athletic Footwear,30849
+2021,12,Women's Apparel,28830
+2021,12,Women's Street Footwear,25524
+2021,12,Women's Athletic Footwear,22957
+2021,12,Men's Street Footwear,41059

@@ -1,0 +1,511 @@
+﻿Year,Month,State,City,Total Sales
+2020,1,Nevada,Las Vegas,5668635.00
+2020,1,New York,New York,9636637.00
+2020,1,Pennsylvania,Philadelphia,948474.00
+2020,2,Nevada,Las Vegas,9970276.00
+2020,2,New York,New York,5027712.00
+2020,3,Colorado,Denver,2096760.00
+2020,3,Nevada,Las Vegas,5219598.00
+2020,3,New York,New York,10344219.00
+2020,4,Colorado,Denver,10037454.00
+2020,4,Florida,Miami,5992435.00
+2020,4,New York,New York,8577117.00
+2020,5,Colorado,Denver,8862322.00
+2020,5,Florida,Miami,3259871.00
+2020,5,New York,New York,4398848.00
+2020,5,Washington,Seattle,396973.00
+2020,6,Washington,Seattle,8829819.00
+2020,7,New York,New York,1816702.00
+2020,7,Texas,Houston,2244061.00
+2020,7,Washington,Seattle,13085250.00
+2020,8,Florida,Miami,5162224.00
+2020,8,Texas,Houston,10697080.00
+2020,8,Washington,Seattle,4018676.00
+2020,9,Florida,Miami,12231234.00
+2020,9,Texas,Houston,6073202.00
+2020,10,Florida,Miami,4955099.00
+2020,10,Minnesota,Minneapolis,904464.00
+2020,10,Texas,Houston,4976706.00
+2020,11,California,San Francisco,4130509.00
+2020,11,Minnesota,Minneapolis,3025958.00
+2020,11,Texas,Houston,1465833.00
+2020,12,California,San Francisco,4578881.00
+2020,12,Minnesota,Minneapolis,3447646.00
+2021,1,Alaska,Anchorage,1040725.00
+2021,1,Arizona,Phoenix,1145508.00
+2021,1,Arkansas,Little Rock,554941.00
+2021,1,California,San Francisco,16865045.00
+2021,1,Connecticut,Hartford,463876.00
+2021,1,Delaware,Wilmington,557665.00
+2021,1,Florida,Orlando,1784354.00
+2021,1,Georgia,Atlanta,2011066.00
+2021,1,Hawaii,Honolulu,1122926.00
+2021,1,Idaho,Boise,890236.00
+2021,1,Indiana,Indianapolis,609644.00
+2021,1,Iowa,Des Moines,431149.00
+2021,1,Kansas,Wichita,640195.00
+2021,1,Kentucky,Louisville,924968.00
+2021,1,Louisiana,New Orleans,988598.00
+2021,1,Maine,Portland,584583.00
+2021,1,Maryland,Baltimore,759210.00
+2021,1,Massachusetts,Boston,879869.00
+2021,1,Michigan,Detroit,745603.00
+2021,1,Mississippi,Jackson,669148.00
+2021,1,Missouri,St. Louis,691449.00
+2021,1,Montana,Billings,5708017.00
+2021,1,New Hampshire,Manchester,992004.00
+2021,1,New Jersey,Newark,700312.00
+2021,1,New Mexico,Albuquerque,952225.00
+2021,1,New York,Albany,1424367.00
+2021,1,North Carolina,Charlotte,1188651.00
+2021,1,North Dakota,Fargo,430693.00
+2021,1,Ohio,Columbus,699376.00
+2021,1,Oklahoma,Oklahoma City,516478.00
+2021,1,Oregon,Portland,958858.00
+2021,1,Rhode Island,Providence,592705.00
+2021,1,South Carolina,Charleston,1502796.00
+2021,1,South Dakota,Sioux Falls,557599.00
+2021,1,Utah,Salt Lake City,728687.00
+2021,1,Vermont,Burlington,976352.00
+2021,1,Virginia,Richmond,1161873.00
+2021,1,West Virginia,Charleston,452465.00
+2021,1,Wisconsin,Milwaukee,610362.00
+2021,1,Wyoming,Cheyenne,710818.00
+2021,2,Alaska,Anchorage,1550608.00
+2021,2,Arizona,Phoenix,906789.00
+2021,2,Arkansas,Little Rock,548876.00
+2021,2,California,San Francisco,8374158.00
+2021,2,Connecticut,Hartford,543658.00
+2021,2,Delaware,Wilmington,612688.00
+2021,2,Florida,Orlando,1373739.00
+2021,2,Georgia,Atlanta,1347527.00
+2021,2,Hawaii,Honolulu,993130.00
+2021,2,Idaho,Boise,874181.00
+2021,2,Indiana,Indianapolis,563689.00
+2021,2,Iowa,Des Moines,360612.00
+2021,2,Kansas,Wichita,535420.00
+2021,2,Kentucky,Louisville,736934.00
+2021,2,Louisiana,New Orleans,928339.00
+2021,2,Maryland,Baltimore,566041.00
+2021,2,Massachusetts,Boston,754623.00
+2021,2,Michigan,Detroit,905329.00
+2021,2,Mississippi,Jackson,722541.00
+2021,2,Missouri,St. Louis,669118.00
+2021,2,Montana,Billings,7001658.00
+2021,2,New Hampshire,Manchester,1056933.00
+2021,2,New Jersey,Newark,594859.00
+2021,2,New Mexico,Albuquerque,915628.00
+2021,2,New York,Albany,1528583.00
+2021,2,North Carolina,Charlotte,1257420.00
+2021,2,North Dakota,Fargo,423483.00
+2021,2,Ohio,Columbus,876353.00
+2021,2,Oklahoma,Oklahoma City,471931.00
+2021,2,Oregon,Portland,841057.00
+2021,2,Rhode Island,Providence,493407.00
+2021,2,South Carolina,Charleston,1618903.00
+2021,2,South Dakota,Sioux Falls,534127.00
+2021,2,Utah,Salt Lake City,754796.00
+2021,2,Vermont,Burlington,919460.00
+2021,2,Virginia,Richmond,869549.00
+2021,2,West Virginia,Charleston,541618.00
+2021,2,Wisconsin,Milwaukee,453024.00
+2021,2,Wyoming,Cheyenne,1081376.00
+2021,3,Alaska,Anchorage,911790.00
+2021,3,Arizona,Phoenix,938733.00
+2021,3,Arkansas,Little Rock,466652.00
+2021,3,California,Los Angeles,3675701.00
+2021,3,California,San Francisco,590627.00
+2021,3,Connecticut,Hartford,611859.00
+2021,3,Delaware,Wilmington,658145.00
+2021,3,Florida,Orlando,1390521.00
+2021,3,Georgia,Atlanta,1015928.00
+2021,3,Hawaii,Honolulu,1073929.00
+2021,3,Idaho,Boise,979488.00
+2021,3,Indiana,Indianapolis,392157.00
+2021,3,Iowa,Des Moines,268406.00
+2021,3,Kansas,Wichita,322183.00
+2021,3,Kentucky,Louisville,675037.00
+2021,3,Louisiana,New Orleans,1147114.00
+2021,3,Maryland,Baltimore,363864.00
+2021,3,Massachusetts,Boston,580570.00
+2021,3,Michigan,Detroit,1004126.00
+2021,3,Mississippi,Jackson,649010.00
+2021,3,Missouri,St. Louis,724022.00
+2021,3,Montana,Billings,3001211.00
+2021,3,New Hampshire,Manchester,924572.00
+2021,3,New Jersey,Newark,468888.00
+2021,3,New Mexico,Albuquerque,1207916.00
+2021,3,New York,Albany,1571751.00
+2021,3,North Carolina,Charlotte,1126276.00
+2021,3,North Dakota,Fargo,399876.00
+2021,3,Ohio,Columbus,856986.00
+2021,3,Oklahoma,Oklahoma City,363559.00
+2021,3,Oregon,Portland,917624.00
+2021,3,Rhode Island,Providence,372345.00
+2021,3,South Carolina,Charleston,1527916.00
+2021,3,South Dakota,Sioux Falls,536928.00
+2021,3,Tennessee,Knoxville,2895168.00
+2021,3,Utah,Salt Lake City,721743.00
+2021,3,Vermont,Burlington,760131.00
+2021,3,Virginia,Richmond,918522.00
+2021,3,West Virginia,Charleston,563621.00
+2021,3,Wisconsin,Milwaukee,251696.00
+2021,3,Wyoming,Cheyenne,1321941.00
+2021,4,Alaska,Anchorage,850038.00
+2021,4,Arizona,Phoenix,1096384.00
+2021,4,Arkansas,Little Rock,562383.00
+2021,4,California,Los Angeles,8907337.00
+2021,4,Connecticut,Hartford,583318.00
+2021,4,Delaware,Wilmington,630114.00
+2021,4,Florida,Orlando,1520143.00
+2021,4,Georgia,Atlanta,1181882.00
+2021,4,Hawaii,Honolulu,1187463.00
+2021,4,Idaho,Boise,859404.00
+2021,4,Indiana,Indianapolis,476658.00
+2021,4,Iowa,Des Moines,371580.00
+2021,4,Kansas,Wichita,390386.00
+2021,4,Kentucky,Louisville,584313.00
+2021,4,Louisiana,New Orleans,1098236.00
+2021,4,Maryland,Baltimore,339888.00
+2021,4,Massachusetts,Boston,526415.00
+2021,4,Michigan,Detroit,1128167.00
+2021,4,Mississippi,Jackson,682664.00
+2021,4,Missouri,St. Louis,598416.00
+2021,4,New Hampshire,Manchester,888542.00
+2021,4,New Jersey,Newark,445340.00
+2021,4,New Mexico,Albuquerque,1384101.00
+2021,4,New York,Albany,1541996.00
+2021,4,North Carolina,Charlotte,1176731.00
+2021,4,North Dakota,Fargo,412025.00
+2021,4,Ohio,Columbus,892574.00
+2021,4,Oklahoma,Oklahoma City,440708.00
+2021,4,Oregon,Portland,1029036.00
+2021,4,Rhode Island,Providence,347141.00
+2021,4,South Carolina,Charleston,1590492.00
+2021,4,South Dakota,Sioux Falls,496219.00
+2021,4,Tennessee,Knoxville,8914665.00
+2021,4,Utah,Salt Lake City,591801.00
+2021,4,Vermont,Burlington,727520.00
+2021,4,Virginia,Richmond,1026429.00
+2021,4,West Virginia,Charleston,642456.00
+2021,4,Wisconsin,Milwaukee,326844.00
+2021,4,Wyoming,Cheyenne,1283155.00
+2021,5,Alaska,Anchorage,1328865.00
+2021,5,Arizona,Phoenix,1272985.00
+2021,5,Arkansas,Little Rock,1031439.00
+2021,5,California,Los Angeles,12768620.00
+2021,5,Connecticut,Hartford,1062979.00
+2021,5,Delaware,Wilmington,1116455.00
+2021,5,Florida,Orlando,1699081.00
+2021,5,Georgia,Atlanta,1360238.00
+2021,5,Hawaii,Honolulu,1387037.00
+2021,5,Idaho,Boise,1273225.00
+2021,5,Indiana,Indianapolis,858252.00
+2021,5,Iowa,Des Moines,739287.00
+2021,5,Kansas,Wichita,761443.00
+2021,5,Kentucky,Louisville,737813.00
+2021,5,Louisiana,New Orleans,1320270.00
+2021,5,Maryland,Baltimore,629024.00
+2021,5,Massachusetts,Boston,898514.00
+2021,5,Michigan,Detroit,1712828.00
+2021,5,Mississippi,Jackson,1245413.00
+2021,5,Missouri,St. Louis,828975.00
+2021,5,Nebraska,Omaha,471501.00
+2021,5,New Hampshire,Manchester,1458592.00
+2021,5,New Jersey,Newark,868654.00
+2021,5,New Mexico,Albuquerque,1575827.00
+2021,5,New York,Albany,2094176.00
+2021,5,North Carolina,Charlotte,1929686.00
+2021,5,North Dakota,Fargo,714458.00
+2021,5,Ohio,Columbus,1508888.00
+2021,5,Oklahoma,Oklahoma City,842677.00
+2021,5,Oregon,Portland,1225197.00
+2021,5,Rhode Island,Providence,741368.00
+2021,5,South Carolina,Charleston,2453120.00
+2021,5,South Dakota,Sioux Falls,759240.00
+2021,5,Tennessee,Knoxville,6257607.00
+2021,5,Utah,Salt Lake City,843593.00
+2021,5,Vermont,Burlington,1252913.00
+2021,5,Virginia,Richmond,1222400.00
+2021,5,West Virginia,Charleston,962511.00
+2021,5,Wisconsin,Milwaukee,738617.00
+2021,5,Wyoming,Cheyenne,1635913.00
+2021,6,Alaska,Anchorage,1556106.00
+2021,6,Arizona,Phoenix,1572398.00
+2021,6,Arkansas,Little Rock,1326823.00
+2021,6,California,Los Angeles,283255.00
+2021,6,Connecticut,Hartford,1254891.00
+2021,6,Delaware,Wilmington,1307189.00
+2021,6,Florida,Orlando,3533401.00
+2021,6,Georgia,Atlanta,1750094.00
+2021,6,Hawaii,Honolulu,2782871.00
+2021,6,Idaho,Boise,2126058.00
+2021,6,Illinois,Chicago,3213054.00
+2021,6,Indiana,Indianapolis,739526.00
+2021,6,Iowa,Des Moines,614577.00
+2021,6,Kansas,Wichita,1020641.00
+2021,6,Kentucky,Louisville,758627.00
+2021,6,Louisiana,New Orleans,3486907.00
+2021,6,Maryland,Baltimore,751327.00
+2021,6,Massachusetts,Boston,1092979.00
+2021,6,Michigan,Detroit,2028400.00
+2021,6,Mississippi,Jackson,1713998.00
+2021,6,Missouri,St. Louis,894865.00
+2021,6,Nebraska,Omaha,2240602.00
+2021,6,New Hampshire,Manchester,1686850.00
+2021,6,New Jersey,Newark,1038287.00
+2021,6,New Mexico,Albuquerque,2001670.00
+2021,6,New York,Albany,2398512.00
+2021,6,North Carolina,Charlotte,2512736.00
+2021,6,North Dakota,Fargo,664856.00
+2021,6,Ohio,Columbus,2010188.00
+2021,6,Oklahoma,Oklahoma City,1114154.00
+2021,6,Oregon,Portland,3027790.00
+2021,6,Rhode Island,Providence,916713.00
+2021,6,South Carolina,Charleston,2947132.00
+2021,6,South Dakota,Sioux Falls,732102.00
+2021,6,Utah,Salt Lake City,870765.00
+2021,6,Vermont,Burlington,1464752.00
+2021,6,Virginia,Richmond,3026866.00
+2021,6,West Virginia,Charleston,1066872.00
+2021,6,Wisconsin,Milwaukee,632738.00
+2021,6,Wyoming,Cheyenne,1755981.00
+2021,7,Alaska,Anchorage,1654007.00
+2021,7,Arizona,Phoenix,1687303.00
+2021,7,Arkansas,Little Rock,1801955.00
+2021,7,Connecticut,Hartford,1341551.00
+2021,7,Delaware,Wilmington,1391060.00
+2021,7,Florida,Orlando,4262832.00
+2021,7,Georgia,Atlanta,1862884.00
+2021,7,Hawaii,Honolulu,3198178.00
+2021,7,Idaho,Boise,2462639.00
+2021,7,Illinois,Chicago,4396729.00
+2021,7,Indiana,Indianapolis,992133.00
+2021,7,Iowa,Des Moines,898581.00
+2021,7,Kansas,Wichita,1432368.00
+2021,7,Kentucky,Louisville,1042479.00
+2021,7,Louisiana,New Orleans,4262362.00
+2021,7,Maryland,Baltimore,827387.00
+2021,7,Massachusetts,Boston,1176276.00
+2021,7,Michigan,Detroit,2307718.00
+2021,7,Mississippi,Jackson,2181913.00
+2021,7,Missouri,St. Louis,1140777.00
+2021,7,Nebraska,Omaha,2552726.00
+2021,7,New Hampshire,Manchester,1790170.00
+2021,7,New Jersey,Newark,1115093.00
+2021,7,New Mexico,Albuquerque,2126875.00
+2021,7,New York,Albany,2695338.00
+2021,7,North Carolina,Charlotte,3079146.00
+2021,7,North Dakota,Fargo,900055.00
+2021,7,Ohio,Columbus,2510250.00
+2021,7,Oklahoma,Oklahoma City,1548137.00
+2021,7,Oregon,Portland,3753602.00
+2021,7,Rhode Island,Providence,992165.00
+2021,7,South Carolina,Charleston,3459869.00
+2021,7,South Dakota,Sioux Falls,898511.00
+2021,7,Utah,Salt Lake City,1112822.00
+2021,7,Vermont,Burlington,1556361.00
+2021,7,Virginia,Richmond,3755691.00
+2021,7,West Virginia,Charleston,1436135.00
+2021,7,Wisconsin,Milwaukee,898153.00
+2021,7,Wyoming,Cheyenne,1832450.00
+2021,8,Alabama,Birmingham,4274720.00
+2021,8,Alaska,Anchorage,1469413.00
+2021,8,Arizona,Phoenix,1760880.00
+2021,8,Arkansas,Little Rock,1693785.00
+2021,8,Connecticut,Hartford,1180837.00
+2021,8,Delaware,Wilmington,1235139.00
+2021,8,Florida,Orlando,3235133.00
+2021,8,Georgia,Atlanta,1951336.00
+2021,8,Hawaii,Honolulu,2667179.00
+2021,8,Idaho,Boise,2291217.00
+2021,8,Illinois,Chicago,2187705.00
+2021,8,Indiana,Indianapolis,869968.00
+2021,8,Iowa,Des Moines,869214.00
+2021,8,Kansas,Wichita,1337238.00
+2021,8,Kentucky,Louisville,1013948.00
+2021,8,Louisiana,New Orleans,3050045.00
+2021,8,Maryland,Baltimore,761180.00
+2021,8,Massachusetts,Boston,1018301.00
+2021,8,Michigan,Detroit,1936181.00
+2021,8,Mississippi,Jackson,1938024.00
+2021,8,Missouri,St. Louis,1012784.00
+2021,8,Nebraska,Omaha,664209.00
+2021,8,New Hampshire,Manchester,1599445.00
+2021,8,New Jersey,Newark,973675.00
+2021,8,New Mexico,Albuquerque,2214117.00
+2021,8,New York,Albany,2423776.00
+2021,8,North Carolina,Charlotte,2772788.00
+2021,8,North Dakota,Fargo,869503.00
+2021,8,Ohio,Columbus,2246772.00
+2021,8,Oklahoma,Oklahoma City,1449467.00
+2021,8,Oregon,Portland,2708675.00
+2021,8,Rhode Island,Providence,848760.00
+2021,8,South Carolina,Charleston,3123985.00
+2021,8,South Dakota,Sioux Falls,868565.00
+2021,8,Texas,Dallas,2999839.00
+2021,8,Utah,Salt Lake City,993811.00
+2021,8,Vermont,Burlington,1384858.00
+2021,8,Virginia,Richmond,2705941.00
+2021,8,West Virginia,Charleston,1011496.00
+2021,8,Wisconsin,Milwaukee,870026.00
+2021,8,Wyoming,Cheyenne,1804286.00
+2021,9,Alabama,Birmingham,9020723.00
+2021,9,Alaska,Anchorage,1138235.00
+2021,9,Arizona,Phoenix,1437283.00
+2021,9,Arkansas,Little Rock,855651.00
+2021,9,Connecticut,Hartford,897398.00
+2021,9,Delaware,Wilmington,956550.00
+2021,9,Florida,Orlando,1374821.00
+2021,9,Georgia,Atlanta,1514861.00
+2021,9,Hawaii,Honolulu,1728850.00
+2021,9,Idaho,Boise,1986342.00
+2021,9,Indiana,Indianapolis,484980.00
+2021,9,Iowa,Des Moines,484877.00
+2021,9,Kansas,Wichita,657438.00
+2021,9,Kentucky,Louisville,805705.00
+2021,9,Louisiana,New Orleans,1043002.00
+2021,9,Maine,Portland,138363.00
+2021,9,Maryland,Baltimore,579202.00
+2021,9,Massachusetts,Boston,734792.00
+2021,9,Michigan,Detroit,1481210.00
+2021,9,Mississippi,Jackson,1111647.00
+2021,9,Missouri,St. Louis,605011.00
+2021,9,New Hampshire,Manchester,1264371.00
+2021,9,New Jersey,Newark,721378.00
+2021,9,New Mexico,Albuquerque,1751777.00
+2021,9,New York,Albany,1987295.00
+2021,9,North Carolina,Charlotte,1839220.00
+2021,9,North Dakota,Fargo,559129.00
+2021,9,Ohio,Columbus,1356777.00
+2021,9,Oklahoma,Oklahoma City,717613.00
+2021,9,Oregon,Portland,993681.00
+2021,9,Rhode Island,Providence,591058.00
+2021,9,South Carolina,Charleston,2397693.00
+2021,9,South Dakota,Sioux Falls,634150.00
+2021,9,Texas,Dallas,10099108.00
+2021,9,Utah,Salt Lake City,567916.00
+2021,9,Vermont,Burlington,1070767.00
+2021,9,Virginia,Richmond,990408.00
+2021,9,West Virginia,Charleston,630516.00
+2021,9,Wisconsin,Milwaukee,445257.00
+2021,9,Wyoming,Cheyenne,1701968.00
+2021,10,Alabama,Birmingham,4337981.00
+2021,10,Alaska,Anchorage,1064179.00
+2021,10,Arizona,Phoenix,1158642.00
+2021,10,Arkansas,Little Rock,609844.00
+2021,10,Connecticut,Hartford,933667.00
+2021,10,Delaware,Wilmington,1004598.00
+2021,10,Florida,Orlando,1601967.00
+2021,10,Georgia,Atlanta,1272530.00
+2021,10,Hawaii,Honolulu,1306848.00
+2021,10,Idaho,Boise,1284784.00
+2021,10,Indiana,Indianapolis,592546.00
+2021,10,Iowa,Des Moines,559769.00
+2021,10,Kansas,Wichita,444207.00
+2021,10,Kentucky,Louisville,771646.00
+2021,10,Louisiana,New Orleans,1208956.00
+2021,10,Maine,Portland,2166208.00
+2021,10,Maryland,Baltimore,583904.00
+2021,10,Massachusetts,Boston,744804.00
+2021,10,Michigan,Detroit,1462413.00
+2021,10,Mississippi,Jackson,871950.00
+2021,10,Missouri,St. Louis,623944.00
+2021,10,New Hampshire,Manchester,1197766.00
+2021,10,New Jersey,Newark,752921.00
+2021,10,New Mexico,Albuquerque,1486308.00
+2021,10,New York,Albany,2061493.00
+2021,10,North Carolina,Charlotte,1659504.00
+2021,10,North Dakota,Fargo,626486.00
+2021,10,Ohio,Columbus,1100050.00
+2021,10,Oklahoma,Oklahoma City,492502.00
+2021,10,Oregon,Portland,1180387.00
+2021,10,Pennsylvania,Philadelphia,546934.00
+2021,10,Rhode Island,Providence,596335.00
+2021,10,South Carolina,Charleston,2372796.00
+2021,10,South Dakota,Sioux Falls,692947.00
+2021,10,Texas,Dallas,7803917.00
+2021,10,Utah,Salt Lake City,619764.00
+2021,10,Vermont,Burlington,1113139.00
+2021,10,Virginia,Richmond,1181756.00
+2021,10,West Virginia,Charleston,655102.00
+2021,10,Wisconsin,Milwaukee,529973.00
+2021,10,Wyoming,Cheyenne,1799297.00
+2021,11,Alaska,Anchorage,1460411.00
+2021,11,Arizona,Phoenix,1294214.00
+2021,11,Arkansas,Little Rock,1131862.00
+2021,11,Connecticut,Hartford,1220052.00
+2021,11,Delaware,Wilmington,1285453.00
+2021,11,Florida,Orlando,2435889.00
+2021,11,Georgia,Atlanta,1728065.00
+2021,11,Hawaii,Honolulu,1961965.00
+2021,11,Idaho,Boise,1829177.00
+2021,11,Indiana,Indianapolis,896617.00
+2021,11,Iowa,Des Moines,724431.00
+2021,11,Kansas,Wichita,830745.00
+2021,11,Kentucky,Louisville,859910.00
+2021,11,Louisiana,New Orleans,1961267.00
+2021,11,Maine,Portland,3501096.00
+2021,11,Maryland,Baltimore,696111.00
+2021,11,Massachusetts,Boston,1187602.00
+2021,11,Michigan,Detroit,1696667.00
+2021,11,Mississippi,Jackson,1446453.00
+2021,11,Missouri,St. Louis,772155.00
+2021,11,New Hampshire,Manchester,1607352.00
+2021,11,New Jersey,Newark,1008865.00
+2021,11,New Mexico,Albuquerque,1975778.00
+2021,11,New York,Albany,2192489.00
+2021,11,North Carolina,Charlotte,2297117.00
+2021,11,North Dakota,Fargo,719228.00
+2021,11,Ohio,Columbus,1725629.00
+2021,11,Oklahoma,Oklahoma City,921641.00
+2021,11,Oregon,Portland,1892255.00
+2021,11,Pennsylvania,Philadelphia,3872765.00
+2021,11,Rhode Island,Providence,855966.00
+2021,11,South Carolina,Charleston,2768713.00
+2021,11,South Dakota,Sioux Falls,770558.00
+2021,11,Utah,Salt Lake City,768169.00
+2021,11,Vermont,Burlington,1422542.00
+2021,11,Virginia,Richmond,1890617.00
+2021,11,West Virginia,Charleston,1058691.00
+2021,11,Wisconsin,Milwaukee,783505.00
+2021,11,Wyoming,Cheyenne,1783018.00
+2021,12,Alaska,Anchorage,728726.00
+2021,12,Arizona,Phoenix,1511102.00
+2021,12,Arkansas,Little Rock,2055136.00
+2021,12,Connecticut,Hartford,1479362.00
+2021,12,Delaware,Wilmington,1543356.00
+2021,12,Florida,Orlando,3470970.00
+2021,12,Georgia,Atlanta,2001055.00
+2021,12,Hawaii,Honolulu,2872081.00
+2021,12,Idaho,Boise,2420127.00
+2021,12,Indiana,Indianapolis,1360028.00
+2021,12,Iowa,Des Moines,1101528.00
+2021,12,Kansas,Wichita,1600600.00
+2021,12,Kentucky,Louisville,1161468.00
+2021,12,Louisiana,New Orleans,3255685.00
+2021,12,Maine,Portland,2805728.00
+2021,12,Maryland,Baltimore,900921.00
+2021,12,Massachusetts,Boston,1482065.00
+2021,12,Michigan,Detroit,2216791.00
+2021,12,Mississippi,Jackson,2358948.00
+2021,12,Missouri,St. Louis,1121749.00
+2021,12,New Hampshire,Manchester,1945070.00
+2021,12,New Jersey,Newark,1245974.00
+2021,12,New Mexico,Albuquerque,2272794.00
+2021,12,New York,Albany,2508028.00
+2021,12,North Carolina,Charlotte,3117256.00
+2021,12,North Dakota,Fargo,1015788.00
+2021,12,Ohio,Columbus,2700740.00
+2021,12,Oklahoma,Oklahoma City,1741867.00
+2021,12,Oregon,Portland,2821512.00
+2021,12,Pennsylvania,Philadelphia,4989346.00
+2021,12,Rhode Island,Providence,1098843.00
+2021,12,South Carolina,Charleston,3522222.00
+2021,12,South Dakota,Sioux Falls,1014630.00
+2021,12,Utah,Salt Lake City,1122553.00
+2021,12,Vermont,Burlington,1704128.00
+2021,12,Virginia,Richmond,2824988.00
+2021,12,West Virginia,Charleston,1667677.00
+2021,12,Wisconsin,Milwaukee,1187274.00
+2021,12,Wyoming,Cheyenne,1867314.00
