@@ -8,6 +8,7 @@ Created with:
 - SQL
 - SSMS
 - Tableau Public
+- Power BI
 
 ## SQL Queries
 
@@ -59,4 +60,6 @@ Here are some examples of the statements used to query the Adidas Sales dataset.
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/garland.zhao/viz/AdidasSales_16727656258960/Dashboard1)
 
-The image above is a screenshot of the Adidas Sales Dashboard. The Dashboard displays monthly sales information. The dashboard is automatically updated when different years and months are selected. The dashboard shows a variety of information such as sales by retailers, monthly total sales, monthly profit, and more.
+## Adidas Sales Dashboard (Power BI)
+![Adidas Sales Power_BI_Dashboard](https://github.com/garlandzhao/Adidas-Sales/blob/3267d9f22a515ed28dca217761cb73ae85761b79/Adidas%20Sales%20Project%20Files/Images/Power%20BI%20Dashboard.PNG)
+The images above show two different dashboards. The first dashboard is from Tableau while the second dashboard is from Power BI. Both dashboards show similar financial information. Both dashboards are automatically updated when different years and months are selected.
